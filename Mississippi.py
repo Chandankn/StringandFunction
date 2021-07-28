@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<studio.h>
 S = input("Please enter a string")
 def most_frequent(string):
     d = dict()
